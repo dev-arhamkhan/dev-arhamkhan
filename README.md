@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Arham Khan 👋
 
-<!--
-**dev-arhamkhan/dev-arhamkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18-year-old developer from Lahore, Pakistan, currently exploring **software development and cybersecurity**.
 
-Here are some ideas to get you started:
+I use **AI-assisted development** as part of my workflow to build, experiment, debug, and learn faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+* 💻 Web development
+* 🔐 Cybersecurity
+* 🧠 Learning through building
+* 🎓 Preparing for a Computer Science degree
+
+**Always learning. Always building.**
